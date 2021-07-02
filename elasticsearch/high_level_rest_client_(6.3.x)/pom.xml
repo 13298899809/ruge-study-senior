@@ -12,7 +12,7 @@
     <artifactId>high_level_rest_client_(6.3.x)</artifactId>
     <properties>
         <!--  <elastic.version>6.3.2</elastic.version>-->
-        <elastic.version>6.5.4</elastic.version>
+        <elastic.version>6.8.15</elastic.version>
     </properties>
     <dependencies>
         <dependency>
