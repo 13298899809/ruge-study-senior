@@ -38,7 +38,7 @@
         <commons-dbutils.version>1.7</commons-dbutils.version>
         <!--阿里巴巴工具类-->
         <cloud-alibaba.version>0.2.2.RELEASE</cloud-alibaba.version>
-        <fastjson.version>1.2.28</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <canal.client.version>1.1.0</canal.client.version>
         <easyexcel.version>2.2.6</easyexcel.version>
         <alipay-easysdk.version>2.0.2</alipay-easysdk.version>
